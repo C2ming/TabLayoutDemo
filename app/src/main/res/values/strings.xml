@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TabLayoutDemo</string>
+
+    <string name="interface_ip">192.168.1.121</string>
+    <string name="interface_port">8080</string>
+
+    <string name="interface_pro_name">fx_base_ssm/</string>
+    <string name="interface_phonecode">/member/apppub/getPhoneCodeAction!execute.do?</string>
+    <string name="interface_register">/member/apppub/registrationAndLogin!registration.do?</string>
+    <string name="interface_login">/member/apppub/registrationAndLogin!login.do?</string>
+    <string name="interface_studentIdCertification">/member/apppub/students!studentIdCertification.do?</string>
+</resources>
